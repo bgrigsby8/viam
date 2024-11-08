@@ -1,0 +1,15 @@
+{
+  "$schema": "https://dl.viam.dev/module.schema.json",
+  "module_id": "bradgrigsby:se-interview",
+  "visibility": "private",
+  "url": "",
+  "description": "Modular sensor component: test-sensor",
+  "models": [
+    {
+      "api": "rdk:component:sensor",
+      "model": "bradgrigsby:se-interview:test-sensor"
+    }
+  ],
+  "entrypoint": "./run.sh",
+  "first_run": ""
+}

@@ -1,0 +1,12 @@
+{
+  "module_name": "se-interview",
+  "namespace": "bradgrigsby",
+  "language": "python",
+  "resource_type": "component",
+  "resource_subtype": "sensor",
+  "model_name": "test-sensor",
+  "enable_cloud_build": false,
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2024-11-08T05:42:44.166183439Z"
+}
